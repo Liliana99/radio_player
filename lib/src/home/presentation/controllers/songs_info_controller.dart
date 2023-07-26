@@ -8,7 +8,7 @@ import 'package:flutter_radio_player_2/src/utils/custom_exception.dart';
 
 import '../../application/services/radio_api_request.dart';
 
-// Create a StateNotifier subclass using AsyncValue<void> as the state
+
 class SongInfoControllerProvider with ChangeNotifier {
   SongInfoControllerProvider(this._info);
   ChartInfo _info;
