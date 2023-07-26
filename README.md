@@ -35,9 +35,10 @@ flutter run --dart
 ## API 
 The api for the solution was provided by `RapiApi API`.
 We’ll be focusing on one endpoint:
-  - Billboard HOT 100 music
+
+  -   Billboard HOT 100 music
   -  /https://rapidapi.com/LDVIN/api/billboard-api/
 
 
 ## For more details: - https://www.marialijideveloper.com
-## Thanks ....https://www.flaticon.es/
+# Thanks ....https://www.flaticon.es/
