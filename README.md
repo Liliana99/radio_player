@@ -31,3 +31,6 @@ flutter run --dart
 - [dismissible_page]
 - [lottie]
 - [intl]
+
+## For more details: - https://www.marialijideveloper.com
+## Thanks ....https://www.flaticon.es/
