@@ -1,7 +1,7 @@
 # Flutter Radio player
 
 - The objective of this flutter application about asynchronous programming in Dart II. Flutter 3.10.5
-- To demostrate uses of new material package flutter 3.10
+- To demostrate uses cases of new material package flutter 3.10
 - To show nice animations with beautiful UI designs
 - To demostrate how handle the statement with provider
 - implement the application icon.
