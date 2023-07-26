@@ -1,4 +1,4 @@
-# flutter_radio_player_2
+# Flutter Radio player
 
 A new Flutter project.
 
