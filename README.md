@@ -32,5 +32,12 @@ flutter run --dart
 - [lottie]
 - [intl]
 
+## API 
+The api for the solution was provided by `RapiApi API`.
+We’ll be focusing on one endpoint:
+
+  -  /https://rapidapi.com/LDVIN/api/billboard-api/
+
+
 ## For more details: - https://www.marialijideveloper.com
 ## Thanks ....https://www.flaticon.es/
