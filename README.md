@@ -24,10 +24,10 @@ flutter run --dart
 - [provider]
 - [audioplayers]
 - [http: ^0.13.6]
-  flutter_secure_storage: ^8.0.0
-  google_fonts: ^4.0.4
-  path_provider: ^2.0.15
-  go_router: ^10.0.0
-  dismissible_page: ^1.0.2
-  lottie: ^2.5.0
-  intl: ^0.18.1
+- [flutter_secure_storage] 
+- [google_fonts]
+- [path_provider]
+- [go_router]
+- [dismissible_page]
+- [lottie]
+- [intl]
