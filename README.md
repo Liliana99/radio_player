@@ -8,6 +8,7 @@
 - implement splash screen.
   
 - ## how to manage clear architecture.
+  ![](assets/features.png)
 - [What is feature ?]
 - A feature is a functional requirement that helps the user complete a given task.
 - More information .....https://codewithandrea.com/articles/flutter-project-structure/
