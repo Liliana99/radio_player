@@ -10,7 +10,7 @@
 - ## how to manage clear architecture.
 - [What is feature ?]
 - A feature is a functional requirement that helps the user complete a given task.
-# More information .....https://codewithandrea.com/articles/flutter-project-structure/
+- More information .....https://codewithandrea.com/articles/flutter-project-structure/
 
 ## To get started 
 To start run the following commands 
