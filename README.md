@@ -17,4 +17,4 @@ flutter pub get
 flutter run --dart
 
 
-![](assets/radio_player.gif)
+![](assets/radio_player2.gif)
