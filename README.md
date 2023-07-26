@@ -3,8 +3,8 @@
 - The objective of this flutter application about asynchronous programming in Dart II. Flutter 3.10.5
 - To demostrate uses of new material package flutter 3.10
 - To show nice animations with beautiful UI designs
-- To demostrate the handle of statement with provider
-- implement the application icon,
+- To demostrate how handle the statement with provider
+- implement the application icon.
 - implement splash screen.
   
 - ## how to manage clear architecture.
