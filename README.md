@@ -1,16 +1,20 @@
 # Flutter Radio player
 
-A new Flutter project.
+The objective of this flutter application about asynchronous programming in Dart II. Flutter 3.10.5
+To demostrate uses of new material package flutter 3.10
+To show nice animations with beautiful UI designs
+To demostrate the handle of statement with provider
+implement the application icon,
+implement splash screen.
 
-## Getting Started
+## To get started 
+To start run the following commands 
 
-This project is a starting point for a Flutter application.
+git clone [repo_url]
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter run --dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![](assets/radio_player.gif)
