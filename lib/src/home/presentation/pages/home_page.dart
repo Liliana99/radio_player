@@ -16,11 +16,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   List<Widget> topWidget() {
-    List<Widget> listWidgets = [];
-
-    return listWidgets;
-  }
-
+   
   @override
   Widget build(BuildContext context) {
     return SafeArea(
